@@ -2,7 +2,7 @@
 
 > ip.txt
 
-while :
+while ;
 do
 
 while IFS= read -r line; 
